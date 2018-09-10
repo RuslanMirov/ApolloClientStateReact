@@ -1,4 +1,4 @@
 # ApolloClientStateReact
 
 
-Managing global state of the client without Redux with Apollo Link State
+Managing global state of the client with Apollo Link State without Redux
